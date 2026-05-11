@@ -1,0 +1,32 @@
+{
+  "common": {
+    "appName": "PayFusion Countries",
+    "language": "Language",
+    "retry": "Retry",
+    "loadMore": "Load more",
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "countries": {
+    "title": "Countries",
+    "subtitle": "Browse countries supported by PayFusion.",
+    "searchPlaceholder": "Search by name, code or currency…",
+    "resultsCount": "Total Countries: {count}",
+    "loading": "Loading countries…",
+    "errorTitle": "Couldn't load countries",
+    "errorBody": "Something went wrong while fetching the country list.",
+    "emptyTitle": "No countries match your search",
+    "emptyBody": "Try a different name, code or currency.",
+    "pageOf": "Page {current} of {total}",
+    "goToPage": "Go to page {page}",
+    "fields": {
+      "name": "Name",
+      "code": "Code",
+      "currency": "Currency",
+      "currencyCode": "Currency code",
+      "locale": "Locale",
+      "phoneCode": "Phone code"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "common": {
+    "appName": "Pays PayFusion",
+    "language": "Langue",
+    "retry": "Réessayer",
+    "loadMore": "Charger plus",
+    "close": "Fermer",
+    "previous": "Précédent",
+    "next": "Suivant"
+  },
+  "countries": {
+    "title": "Pays",
+    "subtitle": "Parcourez les pays pris en charge par PayFusion.",
+    "searchPlaceholder": "Rechercher par nom, code ou devise…",
+    "resultsCount": "Total des pays : {count}",
+    "loading": "Chargement des pays…",
+    "errorTitle": "Impossible de charger les pays",
+    "errorBody": "Une erreur s'est produite lors du chargement de la liste.",
+    "emptyTitle": "Aucun pays ne correspond à votre recherche",
+    "emptyBody": "Essayez un autre nom, code ou devise.",
+    "pageOf": "Page {current} sur {total}",
+    "goToPage": "Aller à la page {page}",
+    "fields": {
+      "name": "Nom",
+      "code": "Code",
+      "currency": "Devise",
+      "currencyCode": "Code de devise",
+      "locale": "Locale",
+      "phoneCode": "Indicatif téléphonique"
+    }
+  }
+}

@@ -27,7 +27,7 @@ Requires Node 20+.
 - **States**: loading skeletons, retryable error state, empty-result state.
 - **Country details dialog** (shadcn `Dialog`) shows ISO code, phone code, locale, currency name + code + symbol, flag image and alt text.
 - **Locale switcher** in the header — `en` / `fr` (next-intl, URL-prefixed: `/en/...`, `/fr/...`).
-- **Infinite scroll** via IntersectionObserver, 24 items per page.
+- **Pagination**, 20 items per page.
 
 ## Architecture
 
